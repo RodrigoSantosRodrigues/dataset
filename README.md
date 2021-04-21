@@ -1,4 +1,4 @@
-# Dataset connstructor
+# Dataset constructor
 Project to assemble dataset with outlined images
 
 # Dependencies
